@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * To change this template use File | Settings | File and Code Templates.
  */
 
-@RequestMapping(value = "/coursers")
+@RequestMapping(value = "/courses")
 @RestController
 public class CourseController {
 
